@@ -8,7 +8,6 @@
       "price": 14000,
       "createdAt": "2023-05-31T02:07:00.408Z"
     },
-
     {
       "id": 2,
       "description": "Hamburguer",
@@ -24,8 +23,22 @@
       "category": "Educação",
       "price": 149,
       "createdAt": "2023-05-25T02:01:00.408Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-06-12T15:41:24.575Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza Calabresa",
+      "category": "Alimentação",
+      "price": 89,
+      "type": "outcome",
+      "createdAt": "2023-06-12T15:58:39.264Z",
+      "id": 5
     }
-
   ]
-
 }
